@@ -6,12 +6,12 @@
   --tint: rgba(33, 36, 43, 1);            /* Optional for highlights */
 }
 
-@theme inline {
+/* @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
+} */
 
 /* Optional: adjust for light mode, if used */
 @media (prefers-color-scheme: light) {
